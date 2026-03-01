@@ -106,5 +106,5 @@ The app requests the following to function correctly:
 
 ## 👨‍💻 Author
 
-**Rudragup**  
-_Senior Flutter Engineer_ 🚀
+**Harshit Saini**  
+_Flutter Engineer_ 🚀
